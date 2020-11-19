@@ -1,0 +1,6 @@
+- **Open-Source Practices with the Gunrock Library** FOSDEM, Belgium, Feb 2020.
+- **GPU Load-Balancing for Sparse Computation** GI-Dagstuhl - Algorithms for Big Data, Germany, Sep 2019.
+- **Strawman API & Abstractions for GPU Load Balancing** Symphony at NVIDIA, California, March 2019.
+- **Gunrock: High-Performance GPU Graph Analytics** CCGrid, Washington, D.C., May 2018.
+- **Writing Graph Primitives with Gunrock** GPU Technology Conference, California, March 2018.
+- **Gunrock: GPU Graph Analytics** Annual Industrial Affiliates Conference, California, May 2017.
