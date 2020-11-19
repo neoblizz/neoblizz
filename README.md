@@ -7,10 +7,10 @@ Meet me, **Muhammad Osama**. I intend to use this page as means to document what
 * :cat: [github/neoblizz](https://github.com/neoblizz)
 * :mailbox: West Sacramento, CA
 
-*A quick note, as I have limited time, I don't intend to keep everything updated all the time, so if you have any questions drop me a note at mosama@ucdavis.edu — I would love to chat about anything research related.*
+*As I have limited time, I don't intend to keep everything updated all the time, so if you have any questions drop me a note at mosama@ucdavis.edu — I would love to chat about anything research related.*
 
 ### :books: Let's add some structure.
-(because without it, it's chaos) I have sectioned my academic work into three parts:
+(because without it there's chaos) I have sectioned my academic work into three parts:
 
 1. **Research Projects** — these are the projects that I have worked on during my Ph.D. and are important research contributions.
 2. **Everything else** — these are the projects that are not so much research-y, but interesting to me and/or were fun to do. So, basically, whatever I didn't classify as research can be found here.
