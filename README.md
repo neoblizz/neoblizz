@@ -7,7 +7,7 @@ Meet me, **Muhammad Osama**. I intend to use this page as means to document what
 * :cat: [github/neoblizz](https://github.com/neoblizz)
 * :mailbox: West Sacramento, CA
 
-*As I have limited time, I don't intend to keep everything updated all the time, so if you have any questions drop me a note at mosama@ucdavis.edu — I would love to chat about anything research related.*
+*Due to time limitations, I don't intend to keep everything updated. So, if you have any questions drop me a note at mosama@ucdavis.edu — I would love to chat about anything related to my research interests.*
 
 ### :books: Let's add some structure.
 (because without it there's chaos) I have sectioned my academic work into three parts:
