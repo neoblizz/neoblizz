@@ -9,14 +9,14 @@ Meet me, **Muhammad Osama**. I intend to use this page as means to document what
 
 *Due to time limitations, I don't intend to keep everything updated. So, if you have any questions drop me a note at mosama@ucdavis.edu — I would love to chat about anything related to my research interests.*
 
-### :books: Let's add some structure.
+### :books: Let's add some structure. (wip)
 (because without it there's chaos) I have sectioned my academic work into three parts:
 
 1. **Research Projects** — these are the projects that I have worked on during my Ph.D. and are important research contributions.
 2. **Everything else** — these are the projects that are not so much research-y, but interesting to me and/or were fun to do. So, basically, whatever I didn't classify as research can be found here.
 3. **Future Projects** — this section is moreso for me, things that I find interesting and would like to do at some point in my life.
 
-### :space_invader: More about me.
+### :space_invader: More about me. (wip)
 - 🌱 Education
 - 📝 Publications
 - ⏰ Appointments
