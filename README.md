@@ -5,7 +5,7 @@ Meet me, **Muhammad Osama**. I intend to use this page as means to document what
 
 * :email: mosama@ucdavis.edu
 * :cat: [github/neoblizz](https://github.com/neoblizz)
-* :mailbox: West Sacramento, CA
+* :mailbox: California, USA
 
 *Due to time limitations, I don't intend to keep everything updated. So, if you have any questions drop me a note at mosama@ucdavis.edu — I would love to chat about anything related to my research interests.*
 
