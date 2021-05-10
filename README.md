@@ -15,7 +15,7 @@ Meet me, **Muhammad Osama**. I intend to use this page as means to document what
 ![GitHub Presence](https://github-readme-stats.vercel.app/api?username=neoblizz&count_private=true&show_icons=true&theme=dracula)
 
 ### :books: Let's add some structure. (wip)
-I have catagorized my academic work into three parts:
+I have catagorized my academic and general contributions into three parts:
 
 1. **Research Projects** — Ph.D. works and important research contributions.
     - [Gunrock, GPU Graph Analytics](https://github.com/neoblizz/neoblizz/blob/main/research/GUNROCK.md)
