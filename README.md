@@ -17,11 +17,11 @@ Meet me, **Muhammad Osama**. I intend to use this page as means to document what
 ### :books: Let's add some structure. (wip)
 I have catagorized my academic work into three parts:
 
-1. **Research Projects** — these are the projects that I have worked on during my Ph.D. and are important research contributions.
+1. **Research Projects** — Ph.D. works and important research contributions.
     - [Gunrock, GPU Graph Analytics](https://github.com/neoblizz/neoblizz/blob/main/research/GUNROCK.md)
     - [GPU Load-Balancing](https://github.com/neoblizz/neoblizz/blob/main/research/LOAD-BALANCE.md)
-3. [**Everything else**](https://github.com/neoblizz?tab=repositories&q=&type=public&language=&sort=) — these are the projects that are not so much research-y, but interesting to me and/or were fun to do. So, basically, whatever I didn't classify as research can be found here.
-4. **Future Projects** — this section is moreso for me, things that I find interesting and would like to do at some point in my life.
+3. [**Everything else**](https://github.com/neoblizz?tab=repositories&q=&type=public&language=&sort=) — Some research, some fun stuff.
+4. **Future Projects** — Projects I have planned for the future.
 
 ### :space_invader: More about me. (wip)
 - 🌱 [Education](https://github.com/neoblizz/neoblizz/blob/main/about/EDUCATION.md)
