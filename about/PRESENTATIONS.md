@@ -1,3 +1,4 @@
+- **Load-Balancing Abstraction for GPUs** Facebook, Inc. California, July 2021.
 - **Open-Source Practices with the Gunrock Library** FOSDEM, Belgium, Feb 2020.
 - **GPU Load-Balancing for Sparse Computation** GI-Dagstuhl - Algorithms for Big Data, Germany, Sep 2019.
 - **Strawman API & Abstractions for GPU Load Balancing** Symphony at NVIDIA, California, March 2019.
