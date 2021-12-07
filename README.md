@@ -5,8 +5,9 @@ Meet me, **Muhammad Osama**. I intend to use this page as means to document what
 
 * :email: mosama at ucdavis dot edu
 * :cat: [github/neoblizz](https://github.com/neoblizz)
-* :mailbox: California, USA
 * :purple_heart: [Resume](https://drive.google.com/file/d/1dLBFb66X3oLZ64fU098J1tAPkoFiotyt/view?usp=sharing)
+* :pushpin: [LinkedIn](https://www.linkedin.com/in/muhammado/)
+* :mailbox: California, USA
 
 *Due to time limitations, I don't intend to keep everything updated. So, if you have any questions drop me a note at mosama at ucdavis dot edu — I would love to chat about anything related to my research interests.*
 
