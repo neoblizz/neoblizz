@@ -16,6 +16,12 @@ Meet me, **Muhammad Osama**. I intend to use this page as means to document what
 
 ![GitHub Presence](https://github-readme-stats.vercel.app/api?username=neoblizz&count_private=true&show_icons=true&theme=dracula)
 
+### :mushroom: Featured research.
+Star the following projects to support me --- thank you!
+
+![Gunrock Card](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=gunrock&theme=dracula)
+![Essentials Card](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=essentials&theme=dracula)
+
 ### :books: Let's add some structure. (wip)
 I have catagorized my academic and general contributions into three parts:
 
