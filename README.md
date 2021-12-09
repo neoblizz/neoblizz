@@ -19,8 +19,8 @@ Meet me, **Muhammad Osama**. I intend to use this page as means to document what
 ### :mushroom: Featured research.
 Star the following projects to support me --- thank you!
 
-![Gunrock Card](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=gunrock&theme=dracula)
-![Essentials Card](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=essentials&theme=dracula)
+[![Gunrock Card](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=gunrock&theme=dracula)](https://github.com/gunrock/gunrock)
+[![Essentials Card](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=essentials&theme=dracula)](https://github.com/gunrock/essentials)
 
 ### :books: Let's add some structure. (wip)
 I have catagorized my academic and general contributions into three parts:
