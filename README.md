@@ -15,6 +15,7 @@ Meet me, **Muhammad Osama**. I intend to use this page as means to document what
 > The following rating represents GitHub presence; S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using the cumulative distribution function using commits, contributions, issues, stars, pull requests, followers, and owned repositories (see: [github stats](https://github.com/anuraghazra/github-readme-stats)).
 
 ![GitHub Presence](https://github-readme-stats.vercel.app/api?username=neoblizz&count_private=true&show_icons=true&theme=dracula)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=neoblizz&theme=dracula)
 
 ### :mushroom: Featured research.
 Star the following projects to support me --- thank you!
