@@ -1,6 +1,6 @@
 
 ## :chart_with_upwards_trend: [An answer for programmable GPU graph anaytics.](https://github.com/gunrock/gunrock)
-Gunrock is a GPU Graph Analytics library developed by our research group at University of California, Davis. Originated from a DARPA project, Gunrock has become a fully featured library with extensive support for variety of different graph applications on the GPU.
+Gunrock is a GPU Graph Analytics library developed by our research group at University of California, Davis. Originated from a DARPA project, Gunrock has become a fully featured library with extensive support for variety of different graph applications on the GPU[^1].
 
 - [RAPIDS](https://rapids.ai/)
 - [NVIDIA Accelerated Libraries](https://developer.nvidia.com/gpu-accelerated-libraries)
@@ -26,14 +26,14 @@ I have been part of the gunrock team since I joined the research group in 2015, 
 - Addressing github issues (debugging) and code-reviews
 
 #### (2) Gunrock's core contributions
-- Helped refactor code along with Yuechao Pan (v1.x)
+- Helped refactor code along with Yuechao Pan (v1.x)[^2]
 - [Gunrock/Essentials](https://github.com/gunrock/essentials): modern C++ based refactor
 - Improved load-balancing schemes, more on that later
 - Profiling of some of the core kernels
 - NVIDIA's architecture tuning for Pascal, Volta and Turing
 
 #### (3) Application-level contributions
-- Graph Coloring [[3](#references)]
+- Graph Coloring[^3]
 - Geolocation
 - Shared-Nearest Neighbors
 - K-Nearest Neighbors
@@ -44,7 +44,6 @@ I have been part of the gunrock team since I joined the research group in 2015, 
 - Example C/C++ and Python bindings for v1.x
 - Unit testing framework
 
-### References
-- **[1]** Yangzihao Wang, Yuechao Pan, Andrew Davidson, Yuduo Wu, Carl Yang, Leyuan Wang, **Muhammad Osama**, Chenshan Yuan, Weitang Liu, Andy T. Riffel, and John D. Owens. **Gunrock: GPU Graph Analytics.** ACM Transactions on Parallel Computing, 4(1):3:1–3:49, August 2017.
-- **[2]** Gunrock: GPU Graph Analytics (url: https://github.com/gunrock/gunrock/releases)
-- **[3]** **Muhammad Osama**, Minh Truong, Carl Yang, Aydin Buluç and John D. Owens. **Graph Coloring on the GPU.** In Proceedings of the 33rd IEEE International Parallel and Distributed Processing Symposium Workshops, IPDPSW '19, pages 231–240, May 2019.
+[^1]: Yangzihao Wang, Yuechao Pan, Andrew Davidson, Yuduo Wu, Carl Yang, Leyuan Wang, **Muhammad Osama**, Chenshan Yuan, Weitang Liu, Andy T. Riffel, and John D. Owens. **Gunrock: GPU Graph Analytics.** ACM Transactions on Parallel Computing, 4(1):3:1–3:49, August 2017.
+[^2]: Gunrock: GPU Graph Analytics (url: https://github.com/gunrock/gunrock/releases)
+[^3]: **Muhammad Osama**, Minh Truong, Carl Yang, Aydin Buluç and John D. Owens. **Graph Coloring on the GPU.** In Proceedings of the 33rd IEEE International Parallel and Distributed Processing Symposium Workshops, IPDPSW '19, pages 231–240, May 2019.
