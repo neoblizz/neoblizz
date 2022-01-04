@@ -3,7 +3,7 @@
 ### :wave: Hi.
 Meet me, **Muhammad Osama**. I intend to use this page as means to document what I have done so far in the academic world. Somehow, from the cloudy-gloomy weather of **University of Washington, Seattle**, where I got my Bachelor's of Electrical Engineering from, I ended up in the ever-so-sunny California. I am currently a *Ph.D. student* at the Electrical and Computer Engineering department at **University of California, Davis**, working with **Professor John Owens** and other brilliant students on some really cool stuff — keep reading to find out more!
 
-* :email: mosama at ucdavis dot edu
+* 🎴 mosama at ucdavis dot edu
 * :cat: [github/neoblizz](https://github.com/neoblizz)
 * :purple_heart: [Resume](https://drive.google.com/file/d/1dLBFb66X3oLZ64fU098J1tAPkoFiotyt/view?usp=sharing)
 * :pushpin: [LinkedIn](https://www.linkedin.com/in/muhammado/)
@@ -27,16 +27,16 @@ Star the following projects to support me --- thank you!
 I have catagorized my academic and general contributions into three parts:
 
 1. **Research Projects** — Ph.D. works and important research contributions.
-    - [Gunrock, GPU Graph Analytics](https://github.com/neoblizz/neoblizz/blob/main/research/GUNROCK.md)
-    - [GPU Load-Balancing](https://github.com/neoblizz/neoblizz/blob/main/research/LOAD-BALANCE.md)
+    - [Gunrock, GPU Graph Analytics](https://github.com/neoblizz/neoblizz/wiki/Gunrock)
+    - [GPU Load-Balancing](https://github.com/neoblizz/neoblizz/wiki/Load-balancing)
 3. [**Everything else**](https://github.com/neoblizz?tab=repositories&q=&type=public&language=&sort=) — Some research, some fun stuff.
 4. **Future Projects** — Projects I have planned for the future.
 
 ### :space_invader: More about me. (wip)
-- 🌱 [Education](https://github.com/neoblizz/neoblizz/blob/main/about/EDUCATION.md)
-- 📝 [Publications](https://github.com/neoblizz/neoblizz/blob/main/about/PUBLICATIONS.md)
-- ⏰ [Appointments](https://github.com/neoblizz/neoblizz/blob/main/about/APPOINTMENTS.md)
-- 🎓 [Reviewing](https://github.com/neoblizz/neoblizz/blob/main/about/REVIEWING.md)
+- 🌱 [Education](https://github.com/neoblizz/neoblizz/wiki/Academics)
+- 📝 [Publications](https://github.com/neoblizz/neoblizz/wiki/Publications)
+- ⏰ [Appointments](https://github.com/neoblizz/neoblizz/wiki/Appointments)
+- 🎓 [Reviewing](https://github.com/neoblizz/neoblizz/wiki/Professional-Reviewing)
 - 🏆 Awards
-- 🍍 [Conferences & Talks](https://github.com/neoblizz/neoblizz/blob/main/about/PRESENTATIONS.md)
-- 🎉 Contributions
+- 🍍 [Conferences & Talks](https://github.com/neoblizz/neoblizz/wiki/Presentations)
+- 🎉 [Contributions](https://github.com/neoblizz?tab=overview)
