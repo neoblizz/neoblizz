@@ -1,2 +1,0 @@
-- **Conference** ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games
-- **Journal** IEEE Transactions on Parallel and Distributed Systems
