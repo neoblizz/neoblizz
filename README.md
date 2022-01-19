@@ -1,7 +1,7 @@
 #### ⚛️ Research Interests — Parallel Programming, Programming Systems and Architecture, Load-Balancing for Parallel Architectures, Graph Processing, Graphics, Games.
 
 ### :wave: Hi.
-Meet me, **Muhammad Osama**. I intend to use this page as means to document what I have done so far in the academic world. Somehow, from the cloudy-gloomy weather of **University of Washington, Seattle**, where I got my Bachelor's of Electrical Engineering from, I ended up in the ever-so-sunny California. I am currently a *Ph.D. student* at the Electrical and Computer Engineering department at **University of California, Davis**, working with **Professor John Owens** and other brilliant students on some really cool stuff — keep reading to find out more!
+Meet me, **Muhammad Osama**. I intend to use this page as means to document what I have done so far in the academic world. Somehow, from the cloudy-gloomy weather of the **University of Washington, Seattle**, where I got my Bachelor of Science degree in Electrical Engineering, I ended up in the ever-so-sunny California. I am currently a *Ph.D. candidate* at the Electrical and Computer Engineering department at the **University of California, Davis**, working with **Professor John Owens** and other brilliant students on some really cool stuff — keep reading to find out more!
 
 * 🎴 mosama at ucdavis dot edu
 * 🔥 [github/neoblizz](https://github.com/neoblizz)
