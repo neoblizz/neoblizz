@@ -10,11 +10,7 @@ Meet me, **Muhammad Osama**. I intend to use this page as means to document what
 * :mailbox: California, USA
 * _**[🐋 Sponsor my opensource endeavors.](https://github.com/sponsors/neoblizz)**_
 
-```
-Due to time limitations, I don't intend to keep everything updated. 
-So, if you have any questions drop me a note at mosama at ucdavis dot edu. 
-I would love to chat about anything related to my research interests.
-```
+> Due to time limitations, I don't intend to keep everything updated. So, if you have any questions drop me a note at mosama at ucdavis dot edu. I would love to chat about anything related to my research interests.
 
 ### :sun_with_face: At glance.
 > The following rating represents GitHub presence; S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using the cumulative distribution function using commits, contributions, issues, stars, pull requests, followers, and owned repositories (see: [github stats](https://github.com/anuraghazra/github-readme-stats)).
