@@ -22,7 +22,8 @@ Meet me, **Muhammad Osama**. I intend to use this page as means to document what
 Star the following projects to support me, thank you!
 
 [![Gunrock Card](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=gunrock&theme=dracula)](https://github.com/gunrock/gunrock)
-[![Essentials Card](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=essentials&theme=dracula)](https://github.com/gunrock/essentials)
+[![Essentials Card](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=essentials&theme=dracula)](https://github.com/gunrock/essentials) 
+[![SSSP](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=sssp&theme=dracula)](https://github.com/gunrock/sssp)
 
 ### :books: Let's add some structure.
 I have categorized my academic and general contributions into three parts:
