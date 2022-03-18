@@ -25,22 +25,11 @@ Star the following projects to support me, thank you!
 [![Essentials Card](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=essentials&theme=dracula)](https://github.com/gunrock/essentials) 
 [![SSSP](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=sssp&theme=dracula)](https://github.com/gunrock/sssp)
 
-### :books: Let's add some structure.
-I have categorized my academic and general contributions into three parts:
-
-1. **Research Projects:** Ph.D. works and important research contributions.
-    - [Gunrock, GPU Graph Analytics](https://github.com/neoblizz/neoblizz/wiki/Gunrock)
-    - [GPU Load-Balancing](https://github.com/neoblizz/neoblizz/wiki/Load-balancing)
-    - [Essentials, Graph Analytics Simplified](https://github.com/neoblizz/neoblizz/wiki/Essentials)
-3. [**Everything else:**](https://github.com/neoblizz?tab=repositories&q=&type=public&language=&sort=) Some research, some fun stuff.
-4. **Future Projects:** Projects I have planned for the future. (wip)
-
 ### :space_invader: More about me.
 - 🌱 [Education](https://github.com/neoblizz/neoblizz/wiki/Academics)
 - 📝 [Publications](https://github.com/neoblizz/neoblizz/wiki/Publications)
 - ⏰ [Appointments](https://github.com/neoblizz/neoblizz/wiki/Appointments)
 - 🎓 [Reviewing](https://github.com/neoblizz/neoblizz/wiki/Professional-Reviewing)
-- 🏆 Awards
 - 🍍 [Conferences & Talks](https://github.com/neoblizz/neoblizz/wiki/Presentations)
 - 🎉 [Contributions](https://github.com/neoblizz?tab=overview)
 
