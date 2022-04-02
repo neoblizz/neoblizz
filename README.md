@@ -4,7 +4,7 @@
 Meet me, **Muhammad Osama**. I intend to use this page as means to document what I have done so far in the academic world. Somehow, from the cloudy-gloomy weather of the **University of Washington, Seattle**, where I got my Bachelor of Science degree in Electrical Engineering, I ended up in the ever-so-sunny California. I am currently a *Ph.D. candidate* at the Electrical and Computer Engineering department at the **University of California, Davis**, working with **Professor John Owens** and other brilliant students on some really cool stuff — keep reading to find out more!
 
 * 🎴 mosama at ucdavis dot edu
-* 🔥 [github/neoblizz](https://github.com/neoblizz)
+* 🔥 [github/neoblizz](https://github.com/neoblizz/neoblizz/wiki)
 * :purple_heart: [Resume](https://drive.google.com/file/d/1dLBFb66X3oLZ64fU098J1tAPkoFiotyt/view?usp=sharing)
 * :pushpin: [LinkedIn](https://www.linkedin.com/in/muhammado/)
 * :mailbox: California, USA
