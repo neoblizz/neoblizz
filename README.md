@@ -1,10 +1,10 @@
-#### ⚛️ Research Interests — Parallel Programming, Programming Systems and Architecture, Load-Balancing for Parallel Architectures, Graph Processing, Graphics, Games.
+#### ⚛️ Research Interests — Parallel Programming, Programming Systems and Architecture, Load-Balancing for Parallel Architectures, Modern C++, Graph Processing, Graphics, Games.
 
 ### :wave: Hi.
 Meet me, **Muhammad Osama**. I intend to use this page as means to document what I have done so far in the academic world. Somehow, from the cloudy-gloomy weather of the **University of Washington, Seattle**, where I got my Bachelor of Science degree in Electrical Engineering, I ended up in the ever-so-sunny California. I am currently a *Ph.D. candidate* at the Electrical and Computer Engineering department at the **University of California, Davis**, working with **Professor John Owens** and other brilliant students on some really cool stuff — keep reading to find out more!
 
 * 🎴 mosama at ucdavis dot edu
-* 🔥 [github/neoblizz](https://github.com/neoblizz/neoblizz/wiki)
+* 🔥 [github/neoblizz](https://github.com/neoblizz)
 * :purple_heart: [Resume](https://drive.google.com/file/d/1dLBFb66X3oLZ64fU098J1tAPkoFiotyt/view?usp=sharing)
 * :pushpin: [LinkedIn](https://www.linkedin.com/in/muhammado/)
 * :mailbox: California, USA
@@ -19,8 +19,9 @@ Meet me, **Muhammad Osama**. I intend to use this page as means to document what
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=neoblizz&theme=dracula)
 
 ### :mushroom: Featured research.
-Star the following projects to support me, thank you!
+I am the lead developer of the following projects (`gunrock/gunrock` 2019-2022). Read more about how I have been involved with the following projects on their respective pages on the right menu under "Research Projects". Star the following projects to support me, thank you!
 
+[![Loops Card](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=loops&theme=dracula)](https://github.com/gunrock/loops)
 [![Gunrock Card](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=gunrock&theme=dracula)](https://github.com/gunrock/gunrock)
 [![Essentials Card](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=essentials&theme=dracula)](https://github.com/gunrock/essentials) 
 [![SSSP](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=sssp&theme=dracula)](https://github.com/gunrock/sssp)
