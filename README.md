@@ -21,10 +21,11 @@ Meet me, **Muhammad Osama**. I intend to use this page as means to document what
 ### :mushroom: Featured research.
 I am the lead developer of the following projects (`gunrock/gunrock` 2019-2022). Read more about how I have been involved with the following projects on their respective pages on the right menu under "Research Projects". Star the following projects to support me, thank you!
 
-[![Loops Card](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=loops&theme=dracula)](https://github.com/gunrock/loops)
-[![Gunrock Card](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=gunrock&theme=dracula)](https://github.com/gunrock/gunrock)
-[![Essentials Card](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=essentials&theme=dracula)](https://github.com/gunrock/essentials) 
-[![SSSP](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=sssp&theme=dracula)](https://github.com/gunrock/sssp)
+| [![Gunrock Card](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=gunrock&theme=dracula)](https://github.com/gunrock/gunrock)          |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![Loops Card](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=loops&theme=dracula)](https://github.com/gunrock/loops)                |
+| [![Essentials Card](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=essentials&theme=dracula)](https://github.com/gunrock/essentials) |
+| [![SSSP](https://github-readme-stats.vercel.app/api/pin?username=gunrock&repo=sssp&theme=dracula)](https://github.com/gunrock/sssp)                        |
 
 ### :space_invader: More about me.
 - 🌱 [Education](https://github.com/neoblizz/neoblizz/wiki/Academics)
